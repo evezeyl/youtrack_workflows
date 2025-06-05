@@ -1,0 +1,9 @@
+{
+  "name" : "evfi_state_done_to_fixed",
+  "title" : "Done to Fixed",
+  "version" : "0.0.1",
+  "visual" : true,
+  "vendor" : {
+    "name" : "admin"
+  }
+}
